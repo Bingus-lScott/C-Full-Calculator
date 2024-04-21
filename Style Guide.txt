@@ -17,7 +17,7 @@ int camelCase (int camelCase1, int camelCase2);
 
 int camelCase (int camelCase1, int camelCase2)
 {
-            
+            code
 }
 
 ### Function calls and Loops
