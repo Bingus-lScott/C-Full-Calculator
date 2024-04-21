@@ -1,0 +1,50 @@
+# Style Guide
+
+### Never Nester
+[Don't Nest your code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+
+Use 12-space indents
+
+            code
+                        code
+                                    code(max)
+
+### Naming Conventions
+Use camelCase
+
+### Function Prototypes & Definitions
+int camelCase (int camelCase1, int camelCase2);
+
+int camelCase (int camelCase1, int camelCase2)
+{
+            
+}
+
+### Function calls and Loops
+doSomething (camelCase1, camelCase2);
+int camelCase = doSomething (camelCase1, camelCase2) + 15;
+
+for (variable definition camelCase; condition; iterator)
+{
+            code
+}
+
+while (condition)
+{
+            code
+}
+
+if (condition)
+{
+            code
+}
+
+else if (condition)
+{
+            code
+}
+
+else 
+{
+            code
+}
