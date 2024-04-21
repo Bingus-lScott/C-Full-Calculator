@@ -10,16 +10,23 @@ and the computer will solve the equation.
 ### Sample IO:
 
 Input: 20 * 3 + 2 / 3
+
 Output: 60.6666666667
 
 Input: x = 3, y = 2, x + y
+
 Output: 5
 
-Input: x = 10, y = 3 - 1, 10 * 17 + x^2 / sqrt(9)
-Output: 203.3333333333
+Input: x = 10 - 1, 10 * 17 + x^2
+
+Output: 
+
 
 I get the scope is pretty large for a insignificant programmer such as myself, but I might as well try, right?
 
 ### Psuedo Code:
 
-WIP
+Get user inputted expression
+Lex expression into tokens
+Parse expression order of operations
+Calculate result

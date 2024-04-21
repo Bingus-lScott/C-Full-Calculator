@@ -10,7 +10,9 @@ Use 12-space indents
                                     code(max)
 
 ### Naming Conventions
-Use camelCase
+Variables: Use camelCase
+
+Constants: Use SCREAMING_SNAKE_CASE
 
 ### Function Prototypes & Definitions
 int camelCase (int camelCase1, int camelCase2);
