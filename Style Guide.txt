@@ -23,8 +23,8 @@ int camelCase (int camelCase1, int camelCase2)
 }
 
 ### Function calls and Loops
-doSomething (camelCase1, camelCase2);
-int camelCase = doSomething (camelCase1, camelCase2) + 15;
+doSomething(camelCase1, camelCase2);
+int camelCase = doSomething(camelCase1, camelCase2) + 15;
 
 for (variable definition camelCase; condition; iterator)
 {
